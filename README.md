@@ -5,3 +5,7 @@ Note: You’ll find much better instructions in Cloudflare’s official document
 1. Set up a Cloudflare Worker and a Cloudflare KV Store
 2. Add a binding to the KV Store in the Worker (The default name is “SHORTCUTS”)
 3. Deploy `worker.js` to the Worker
+
+## License
+This repository is released under the [CC0-1.0 license](https://creativecommons.org/publicdomain/zero/1.0/deed).
+No rights reserved.
